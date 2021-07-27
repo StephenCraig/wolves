@@ -11,7 +11,7 @@ body {
     display: block;
     height: 280px;
     text-align: center;
-    background-image: url("title.png");
+    background-image: url("img/title.png");
 }
 
 #content {
