@@ -31,6 +31,10 @@ body {
     padding-right: 50px;
 }
 
+.popculture img {
+    width: 500px;
+}
+
 .dietary {
     text-align: left;
     background: white;
